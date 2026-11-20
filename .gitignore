@@ -1,0 +1,22 @@
+# Python .gitignore
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.venv
+env/
+venv/
+build/
+Dist/
+*.log
+*.sqlite3
+*.db
+*.sqlite
+# Jupyter
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db
